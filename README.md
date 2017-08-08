@@ -2,13 +2,16 @@
 This module is for making DynamoDB request parameter easily.
 This is for nodejs SDK.
 
+__日本語 => README.JP.md__
+
+
 # install
 
 ```bash
 npm i dyqun
 ```
 
-## サンプル
+## SAMPLE CODE
 
 ```javascript
 const AWS = require('aws-sdk');
