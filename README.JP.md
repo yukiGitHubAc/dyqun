@@ -6,6 +6,12 @@ DynammoDBのリクエストparameterを作成するモジュール
 # 使用方法
 dyqunに検索に必要な条件を渡すことでKeyConditionExpressionを用いた簡単な検索パラメータを返却します。
 
+# インストール
+
+```bash
+npm i dyqun
+```
+
 ## サンプル
 
 ```javascript
